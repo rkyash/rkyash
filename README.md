@@ -20,7 +20,7 @@ That's the part of AI engineering most people underestimate: getting it to run r
 
 - 🔭 Currently building AI platform tooling: RAG pipelines and agentic workflows
 - 💬 Ask me about RAG architecture, Go concurrency, distributed AWS pipelines, or production reliability
-- ✍️ I write about AI engineering and backend architecture at [rkyash.com](https://rkyash.com)
+- ✍️ I write about AI engineering and backend architecture at [rkyash.com]([https://rkyash.com](https://rkyash.com/blog/ai-pair-programming-a-practical-claude-md-guide))
 
 ---
 
