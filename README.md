@@ -20,7 +20,7 @@ That's the part of AI engineering most people underestimate: getting it to run r
 
 - 🔭 Currently building AI platform tooling: RAG pipelines and agentic workflows
 - 💬 Ask me about RAG architecture, Go concurrency, distributed AWS pipelines, or production reliability
-- ✍️ I write about AI engineering and backend architecture at [rkyash.com]([https://rkyash.com](https://rkyash.com/blog/ai-pair-programming-a-practical-claude-md-guide))
+- ✍️ I write about AI engineering and backend architecture at [rkyash.com]([https://rkyash.com](https://rkyash.com))
 
 ---
 
@@ -91,7 +91,7 @@ I use AI coding tools as part of my regular engineering workflow — not just to
 - **GitHub Copilot** — inline pair-programming for day-to-day implementation and boilerplate
 - **Cursor** — used for larger multi-file refactors and codebase exploration
 
-I write about practical AI-pair-programming workflows (CLAUDE.md conventions, prompt design, review practices) at [rkyash.com](https://rkyash.com).
+I write about practical AI-pair-programming workflows (CLAUDE.md conventions, prompt design, review practices) at [rkyash.com](https://rkyash.com/blog/ai-pair-programming-a-practical-claude-md-guide).
 
 ---
 
